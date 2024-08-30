@@ -24,6 +24,10 @@ This research employs a **mixed-methods approach**, combining both **quantitativ
 - **Questionnaires**: Structured surveys using Likert scales to measure attitudes and effectiveness.
 
 ### 3. Data Analysis
+
+To learn more about the data analysis analysis simulation with ai
+![Analyse and Simulate with GPT 4.o](https://chatgpt.com/share/3000562e-6fb3-409c-b1da-a574459186bb)
+
 - **Quantitative**: Regression, ANOVA, and correlation analysis for statistical evaluation.
 - **Qualitative**: Thematic and content analysis for in-depth understanding.
 
